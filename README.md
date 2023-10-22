@@ -14,6 +14,7 @@ I'm interested in creating mobile apps with using Flutter and currently learning
 <a href="https://expressjs.com" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS"/> </a>
 <a href="https://www.npmjs.com/package/nodemon" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon"/</a>
 <a href="https://www.npmjs.com/package/jsonwebtoken" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/</a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/</a>
 
 <br/>
 
@@ -33,6 +34,7 @@ I'm interested in creating mobile apps with using Flutter and currently learning
 <a href="https://www.postman.com" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> </a> 
 <a href="https://trello.com/home" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/></a>
 <a href="https://discord.com" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://www.selenium.dev" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
 
 # 📊 GitHub Stats:
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Ozgur-Ulusoy&show_icons=true&theme=radical)](https://github.com/Ozgur-Ulusoy) 
