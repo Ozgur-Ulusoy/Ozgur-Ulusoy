@@ -28,6 +28,8 @@ I'm interested in creating mobile apps with using Flutter and currently learning
 <a href="https://dart.dev" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> </a> 
 <a href="https://www.python.org" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> </a> 
 
+<br/>
+
 # 🔧 Tools:
 
 <a href="https://code.visualstudio.com" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/> </a> 
@@ -35,6 +37,12 @@ I'm interested in creating mobile apps with using Flutter and currently learning
 <a href="https://trello.com/home" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/></a>
 <a href="https://discord.com" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.selenium.dev" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
+
+# 🔗 Accounts
+<h2> <a href = "https://play.google.com/store/apps/developer?id=Özgür+Taylan+Ulusoy" target = "_blank" rel = "noopener" >Google Play</a></h2>
+<h2> <a href = "https://www.hackerrank.com/profile/ozgurcoderr" target = "_blank" rel = "noopener" >HackerRank</a></h2>
+<h2> <a href = "https://leetcode.com/ozgurcoderr/" target = "_blank" rel = "noopener" >LeetCode</a></h2>
+
 
 # 📊 GitHub Stats:
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Ozgur-Ulusoy&show_icons=true&theme=radical)](https://github.com/Ozgur-Ulusoy) 
