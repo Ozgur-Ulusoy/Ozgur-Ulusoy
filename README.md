@@ -1,7 +1,7 @@
 ![Views](https://komarev.com/ghpvc/?username=your-github-Ozgur-Ulusoy)
 
-<h1 aligment='Center'> Hi, I am Özgür 👨‍💻 Computer Engineering Student</h1>
-I'm interested in creating mobile apps with using Flutter and currently learning Backend Development
+<h1 align='center'> Hi, I am Özgür 👨‍💻 Computer Engineering Student & Oracle Application Developer Intern at <a href="https://www.besttransformer.com/">Best Transformer</a> </h1>
+I'm interested in creating mobile apps with using Flutter and currently learning Backend Development.
 
 # 💻 Tech Stack:
 <h3>Mobile</h3>
