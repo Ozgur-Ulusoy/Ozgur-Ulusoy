@@ -19,6 +19,7 @@ I'm interested in creating mobile apps with using Flutter and currently learning
 <br/>
 
 <h3>Database</h3>
+<a href= "https://www.oracle.com" target = "_blank" rel="noopener"> <img src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/> </a>
 <a href="https://firebase.google.com" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/> </a>
 <a href="https://www.mongodb.com" target="_blank" rel=”noopener”> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a>
 
